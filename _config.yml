@@ -1,0 +1,17 @@
+# User config
+author: "WORKERS LIFE"
+tagline: "Pineapple Certfied Jekyll Theme"
+description: "Designing solves everything"
+keywords: "Pineapple, Pineapple Pizza, Pineapple House"
+email: "japhodbblebrox@gmail.com"
+linkedin: "https://www.linkedin.com/in/chunghun-choi-3261bb61/"
+twitter: "https://twitter.com/"
+
+
+# Site config
+url: "https://japhodbblebrox.github.io"
+baseurl: " "
+highlighter: rouge
+sass:
+  sass_dir: assets/scss
+  style: compressed
